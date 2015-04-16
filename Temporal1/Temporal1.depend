@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429198125 source:c:\users\elreq_000\documents\github\temporal1\temporal1\main.c
+	<stdio.h>
+	<stdlib.h>
+
